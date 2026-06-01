@@ -31,8 +31,8 @@ All settings are in the **Configuration** cell at the top of the notebook:
 ```python
 # HuggingFace dataset
 DATA_SOURCE    = 'huggingface'
-DATASET_NAME   = 'tweet_eval'
-DATASET_CONFIG = 'sentiment'
+DATASET_NAME   = 'Sp1786/multiclass-sentiment-analysis-dataset'
+DATASET_CONFIG = ''
 
 # — or — local CSV/Excel
 DATA_SOURCE = 'csv'
