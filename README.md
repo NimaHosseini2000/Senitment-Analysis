@@ -52,4 +52,4 @@ Change those values and re-run — nothing else needs to be touched.
 
 ## Default Dataset
 
-[tweet_eval](https://huggingface.co/datasets/tweet_eval) — sentiment subset (negative / neutral / positive tweets).
+[Sp1786/multiclass-sentiment-analysis-dataset](https://huggingface.co/datasets/Sp1786/multiclass-sentiment-analysis-dataset) — 41,600 English samples across negative / neutral / positive classes (Apache 2.0).
