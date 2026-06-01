@@ -1,0 +1,28 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model output
+bert_results/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+.venv/
+
+# Data files (add exceptions below if you want to commit sample data)
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
